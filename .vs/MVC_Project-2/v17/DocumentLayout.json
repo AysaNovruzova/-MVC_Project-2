@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\mvc_project-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|solutionrelative:mvc_project-2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\mvc_project-2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|solutionrelative:mvc_project-2\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\services\\concretes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\services\\abstracts\\iemployeeservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\services\\abstracts\\iemployeeservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\exceptions\\notfoundemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\exceptions\\notfoundemployeeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\exceptions\\notfoundphotofileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\exceptions\\notfoundphotofileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\repositoryabstracts\\igenericrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\repositoryabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\biznes\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D13B7B27-23D8-4074-9962-067709D8B04E}|Biznes\\Business.csproj|solutionrelative:biznes\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\mvc_project-2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|solutionrelative:mvc_project-2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\data\\repositoryconcretes\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,12 +23,56 @@
       "RelativeMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|solutionrelative:data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\repositoryabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\repositoryabstracts\\igenericrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\repositoryabstracts\\igenericrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE475343-5BBD-4FAB-8C4B-474ECD8FD0EC}|Core\\Core.csproj|solutionrelative:core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\ContentTypeException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Exceptions\\ContentTypeException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1812E7C5-EFCF-4129-8D78-44213E8FC986}|Data\\Data.csproj|solutionrelative:data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\mvc_project-2\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|solutionrelative:mvc_project-2\\controllers\\settingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|c:\\users\\hp\\desktop\\mvc_project-2\\mvc_project-2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41431B99-7811-4078-82AA-1F725699B5C8}|MVC_Project-2\\MVC_Project-2.csproj|solutionrelative:mvc_project-2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Concretes\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Services\\Concretes\\EmployeeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundEmployeeException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Exceptions\\NotFoundEmployeeException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundPhotoFileException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Exceptions\\NotFoundPhotoFileException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Biznes\\Business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,84 +82,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T15:38:54.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Concretes\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "Biznes\\Services\\Concretes\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Concretes\\EmployeeService.cs",
-              "RelativeToolTip": "Biznes\\Services\\Concretes\\EmployeeService.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwG0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T12:37:21.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NotFoundEmployeeException.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundEmployeeException.cs",
-              "RelativeDocumentMoniker": "Biznes\\Exceptions\\NotFoundEmployeeException.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundEmployeeException.cs",
-              "RelativeToolTip": "Biznes\\Exceptions\\NotFoundEmployeeException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:59:13.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContentTypeException.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\ContentTypeException.cs",
-              "RelativeDocumentMoniker": "Biznes\\Exceptions\\ContentTypeException.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\ContentTypeException.cs",
-              "RelativeToolTip": "Biznes\\Exceptions\\ContentTypeException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:58:23.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Program.cs",
-              "RelativeDocumentMoniker": "MVC_Project-2\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Program.cs",
-              "RelativeToolTip": "MVC_Project-2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Project-2\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\AppDbContext.cs",
+              "RelativeToolTip": "MVC_Project-2\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:25:20.959Z",
+              "WhenOpened": "2024-05-17T10:07:39.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Project-2\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\appsettings.json",
+              "RelativeToolTip": "MVC_Project-2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T10:04:31.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IEmployeeServicecs.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
-              "RelativeDocumentMoniker": "Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
-              "RelativeToolTip": "Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAB8AAACA/rE9QUQuwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T12:33:56.109Z",
+              "WhenOpened": "2024-05-17T10:02:03.194Z",
               "EditorCaption": ""
             },
             {
@@ -152,33 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NotFoundPhotoFileException.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
-              "RelativeDocumentMoniker": "Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
-              "RelativeToolTip": "Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:59:52.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IGenericRepository.cs.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
-              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
-              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T11:50:54.03Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "IEmployeeRepository.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\RepositoryAbstracts\\IEmployeeRepository.cs",
               "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IEmployeeRepository.cs",
@@ -191,8 +142,151 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "RelativeToolTip": "Data\\RepositoryConcretes\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:02:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Project-2\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Program.cs",
+              "RelativeToolTip": "MVC_Project-2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T13:25:20.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGenericRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
+              "RelativeDocumentMoniker": "Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
+              "RelativeToolTip": "Core\\RepositoryAbstracts\\IGenericRepository.cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:50:54.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\Models\\Employee.cs",
+              "RelativeToolTip": "Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:01:38.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Core\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:01:36.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Business",
+              "Title": "ContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\ContentTypeException.cs",
+              "RelativeDocumentMoniker": "Biznes\\Exceptions\\ContentTypeException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\ContentTypeException.cs",
+              "RelativeToolTip": "Biznes\\Exceptions\\ContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:58:23.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmployeeServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
+              "RelativeDocumentMoniker": "Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
+              "RelativeToolTip": "Biznes\\Services\\Abstracts\\IEmployeeServicecs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:33:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotFoundEmployeeException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundEmployeeException.cs",
+              "RelativeDocumentMoniker": "Biznes\\Exceptions\\NotFoundEmployeeException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundEmployeeException.cs",
+              "RelativeToolTip": "Biznes\\Exceptions\\NotFoundEmployeeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:59:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Biznes\\Services\\Concretes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Services\\Concretes\\EmployeeService.cs",
+              "RelativeToolTip": "Biznes\\Services\\Concretes\\EmployeeService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwG0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:37:21.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:38:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NotFoundPhotoFileException.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
+              "RelativeDocumentMoniker": "Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
+              "RelativeToolTip": "Biznes\\Exceptions\\NotFoundPhotoFileException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:59:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Business.csproj",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Business.csproj",
               "RelativeDocumentMoniker": "Biznes\\Business.csproj",
               "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Biznes\\Business.csproj",
@@ -205,32 +299,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\GenericRepository.cs",
-              "RelativeToolTip": "Data\\RepositoryConcretes\\GenericRepository.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:03:03.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "Data\\RepositoryConcretes\\EmployeeRepository.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\Data\\RepositoryConcretes\\EmployeeRepository.cs",
-              "RelativeToolTip": "Data\\RepositoryConcretes\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T13:02:44.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "SettingController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Controllers\\SettingController.cs",
               "RelativeDocumentMoniker": "MVC_Project-2\\Controllers\\SettingController.cs",
@@ -243,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "AdminController.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\MVC_Project-2\\MVC_Project-2\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "MVC_Project-2\\Controllers\\AdminController.cs",

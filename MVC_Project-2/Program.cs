@@ -1,4 +1,5 @@
-using Data.DAL;
+
+using Microsoft.EntityFrameworkCore;
 
 namespace MVC_Project_2
 {
@@ -12,7 +13,7 @@ namespace MVC_Project_2
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<AppDbContext>(opt =>
             {
-                opt.UseSql
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
 
             var app = builder.Build();
