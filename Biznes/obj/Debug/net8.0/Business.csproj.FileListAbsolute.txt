@@ -1,0 +1,6 @@
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\MVC_Project-2\Biznes\obj\Debug\net8.0\Business.sourcelink.json
